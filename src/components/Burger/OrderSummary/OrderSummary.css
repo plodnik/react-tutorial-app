@@ -1,0 +1,3 @@
+.OrderSummaryList .IngredientName{
+    text-transform: capitalize;
+}
